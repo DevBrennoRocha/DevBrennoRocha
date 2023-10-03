@@ -1,4 +1,4 @@
-### Olá Sou Brenno Rocha
+### Olá Sou Brenno Rocha 🎃
 
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/srwebber_)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brenno-rocha-216924209/?trk=public-profile-join-page)
